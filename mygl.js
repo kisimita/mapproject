@@ -161,7 +161,8 @@ function drawScene(){
         
     }
         
-    
+    var point = utils.findNeighBor(1, 0, 0, 1, -1);
+    console.info("point x:" + point.x + " - y:" + point.y);
 }
 
 /**

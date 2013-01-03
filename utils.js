@@ -82,6 +82,33 @@
 		requestAnimFrame(o);
 	}
 	
+	utilsObject.prototype.findNeighBor= function(d, xa, ya, xb, yb){
+		var sinalpha = (yb - ya)/(Math.sqrt((xb - xa)*(xb - xa) + (yb - ya)*(yb - ya)));
+		var cosalpha = Math.sqrt(1 - sinalpha*sinalpha);
+		
+		var xc;
+		var yc;
+		// goc phan tu thu 4
+		if((xa < xb) && (ya > yb)) {
+			xc = xa + d * (-sinalpha);
+			yc = ya + d * cosalpha;
+		} else if((xa < xb) && (ya < yb)) { // goc phan tu 1
+			xc = xa - d * (sinalpha);
+			yc = ya + d * cosalpha;
+		} else if((xa > xb) && (ya < yb)) { // goc phan tu 2
+			xc = xa - d * (sinalpha);
+			yc = ya - d * cosalpha;
+		} else if((xa > xb) && (ya > yb)) { // goc phan tu 3
+			xc = xa + d * (-sinalpha);
+			yc = ya - d * cosalpha;
+		}
+		
+		
+		var point = new Object();
+		point.x = xc;
+		point.y = yc;
+		return point;
+	}
 	
 				
 
