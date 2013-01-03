@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Open street map</title>
+    <script type="text/javascript" src="jquery-1.8.3.js"></script>
+	<script type="text/javascript" src="myscript.js"></script>
+	<script type="text/javascript" src="glMatrix-0.9.5.min.js"></script>
+	<script type="text/javascript" src="mygl.js"></script>
+    <script type="text/javascript" src="utils.js"></script>
+    <!-- Fragment Shader //-->
+    <script id='shader-fs' type='x-shader/x-fragment'>
+        #ifdef GL_ES
+        precision highp float;
+        #endif
+        
+        uniform vec3 modelColor;
+        
+        void main(void) {
+            gl_FragColor = vec4(modelColor, 1.0);
+        }
+        </script>
+    
+    <!-- Vertex Shader //-->
+    <script id='shader-vs' type='x-shader/x-vertex'>
+        attribute vec3 aVertexPosition;
+        
+        uniform mat4 uMVMatrix;
+        uniform mat4 uPMatrix;
+        
+        void main(void) {
+            gl_Position = uPMatrix * uMVMatrix * vec4(aVertexPosition, 1.0);
+            gl_PointSize = 3.0;
+        }
+        </script>
+
+</head>
+<body onload="runWebGLApp();">
+
+	<button id="btnjson" onClick="loadModel('models/cone.json');">Load map</button>
+	</br>
+	<canvas id='canvas-element-id' width='500' height='500'>
+        Your browser does not support the HTML5 canvas element.
+    </canvas>
+
+	<span id="sp">Open street map:</span>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $.ajax({
+                type: "GET",
+                url: "map.osm.xml",
+                dataType: "xml",
+                success: parseXml
+            });
+        });
+    </script>
+</body>
+</html>

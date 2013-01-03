@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.0.2" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="10.7973970" minlon="106.6644840" maxlat="10.7992150" maxlon="106.6683470"/>
+ <node id="366474984" lat="10.7953167" lon="106.6670089" user="jaapsen" uid="135475" visible="true" version="2" changeset="9100634" timestamp="2011-08-23T07:20:09Z"/>
+ <node id="366455074" lat="10.7978765" lon="106.6727959" user="mikecc" uid="14034" visible="true" version="4" changeset="13832069" timestamp="2012-11-11T12:44:50Z"/>
+ <node id="366451774" lat="10.7974113" lon="106.6648356" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T02:53:21Z"/>
+ <node id="366417656" lat="10.7971566" lon="106.6812112" user="jaapsen" uid="135475" visible="true" version="4" changeset="8986243" timestamp="2011-08-11T14:44:09Z"/>
+ <node id="366473578" lat="10.7935952" lon="106.6627273" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864453" timestamp="2009-03-28T03:57:01Z"/>
+ <node id="366456460" lat="10.7938633" lon="106.6628508" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T03:07:24Z"/>
+ <node id="366369484" lat="10.7959674" lon="106.6641323" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="863232" timestamp="2009-03-27T23:09:00Z"/>
+ <node id="366375751" lat="10.7987097" lon="106.6632312" user="jaapsen" uid="135475" visible="true" version="3" changeset="9100634" timestamp="2011-08-23T07:20:04Z"/>
+ <node id="366453684" lat="10.7965387" lon="106.6664494" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T02:58:28Z"/>
+ <node id="366397851" lat="10.7931433" lon="106.6626028" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T00:41:12Z"/>
+ <node id="366428095" lat="10.7970246" lon="106.6646371" user="jaapsen" uid="135475" visible="true" version="2" changeset="9100634" timestamp="2011-08-23T07:20:07Z"/>
+ <node id="366451837" lat="10.7982858" lon="106.6650143" user="jaapsen" uid="135475" visible="true" version="2" changeset="9100634" timestamp="2011-08-23T07:20:08Z"/>
+ <node id="366466574" lat="10.7943323" lon="106.6630860" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864453" timestamp="2009-03-28T03:35:51Z"/>
+ <node id="366404340" lat="10.7983888" lon="106.6667868" user="jaapsen" uid="135475" visible="true" version="3" changeset="9100634" timestamp="2011-08-23T07:20:05Z"/>
+ <node id="710021199" lat="10.7974201" lon="106.6771550" user="jaapsen" uid="135475" visible="true" version="3" changeset="8986243" timestamp="2011-08-11T14:44:10Z"/>
+ <node id="366468056" lat="10.7919052" lon="106.6622347" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864453" timestamp="2009-03-28T03:40:15Z"/>
+ <node id="366475507" lat="10.7958022" lon="106.6663235" user="jaapsen" uid="135475" visible="true" version="2" changeset="9100634" timestamp="2011-08-23T07:20:09Z"/>
+ <node id="366451347" lat="10.7986815" lon="106.6650775" user="jaapsen" uid="135475" visible="true" version="2" changeset="9100634" timestamp="2011-08-23T07:20:08Z"/>
+ <node id="366417375" lat="10.7985455" lon="106.6650508" user="jaapsen" uid="135475" visible="true" version="3" changeset="9100634" timestamp="2011-08-23T07:20:06Z"/>
+ <node id="366408000" lat="10.7961697" lon="106.6674827" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T01:06:29Z"/>
+ <node id="366478733" lat="10.7983111" lon="106.6676580" user="jaapsen" uid="135475" visible="true" version="3" changeset="9100634" timestamp="2011-08-23T07:20:10Z"/>
+ <node id="366421613" lat="10.7991225" lon="106.6670301" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T01:39:55Z"/>
+ <node id="366428767" lat="10.7976688" lon="106.6749581" user="jaapsen" uid="135475" visible="true" version="5" changeset="8986243" timestamp="2011-08-11T14:44:09Z"/>
+ <node id="366438715" lat="10.7975555" lon="106.6760251" user="jaapsen" uid="135475" visible="true" version="4" changeset="8986243" timestamp="2011-08-11T14:44:09Z"/>
+ <node id="366453219" lat="10.8000110" lon="106.6653533" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T02:57:13Z"/>
+ <node id="366467329" lat="10.7995651" lon="106.6652513" user="jaapsen" uid="135475" visible="true" version="2" changeset="9101128" timestamp="2011-08-23T08:21:42Z"/>
+ <node id="2008273929" lat="10.7979968" lon="106.6713883" user="mikecc" uid="14034" visible="true" version="1" changeset="13832069" timestamp="2012-11-11T12:44:45Z"/>
+ <node id="1894612450" lat="10.7988007" lon="106.6627378" user="Dymo12" uid="509465" visible="true" version="1" changeset="12953976" timestamp="2012-09-02T13:08:54Z"/>
+ <node id="366419728" lat="10.7951014" lon="106.6635748" user="huy nguyen k" uid="401174" visible="true" version="2" changeset="10039373" timestamp="2011-12-05T04:55:26Z"/>
+ <node id="366453218" lat="10.7971844" lon="106.6803274" user="jaapsen" uid="135475" visible="true" version="4" changeset="8953489" timestamp="2011-08-08T03:02:32Z"/>
+ <node id="366470635" lat="10.7973733" lon="106.6777153" user="jaapsen" uid="135475" visible="true" version="5" changeset="9100634" timestamp="2011-08-23T07:20:09Z"/>
+ <node id="366380873" lat="10.8004072" lon="106.6655006" user="jaapsen" uid="135475" visible="true" version="2" changeset="9101128" timestamp="2011-08-23T08:21:41Z"/>
+ <node id="366427162" lat="10.7959161" lon="106.6674500" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T01:49:56Z"/>
+ <node id="366443898" lat="10.7980849" lon="106.6699079" user="jaapsen" uid="135475" visible="true" version="3" changeset="9100634" timestamp="2011-08-23T07:20:07Z"/>
+ <node id="366398898" lat="10.7937964" lon="106.6628200" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T00:43:52Z"/>
+ <node id="366393448" lat="10.7957787" lon="106.6673711" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T00:17:03Z"/>
+ <node id="366378949" lat="10.7977764" lon="106.6736437" user="jaapsen" uid="135475" visible="true" version="3" changeset="8986243" timestamp="2011-08-11T14:44:09Z"/>
+ <node id="366452602" lat="10.7974877" lon="106.6666267" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T02:55:31Z"/>
+ <node id="366371679" lat="10.7946583" lon="106.6632946" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="863232" timestamp="2009-03-27T23:14:11Z"/>
+ <node id="366388408" lat="10.7976401" lon="106.6751445" user="Dymo12" uid="509465" visible="true" version="29" changeset="13457103" timestamp="2012-10-11T17:26:19Z">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="366469251" lat="10.7978774" lon="106.6649602" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864453" timestamp="2009-03-28T03:43:42Z"/>
+ <node id="366398396" lat="10.7976295" lon="106.6752941" user="jaapsen" uid="135475" visible="true" version="4" changeset="8986243" timestamp="2011-08-11T14:44:09Z"/>
+ <node id="366418474" lat="10.7987519" lon="106.6625103" user="Dymo12" uid="509465" visible="true" version="5" changeset="12953976" timestamp="2012-09-02T13:22:29Z"/>
+ <node id="366375943" lat="10.7958106" lon="106.6640319" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="863232" timestamp="2009-03-27T23:23:18Z"/>
+ <node id="366435377" lat="10.7979868" lon="106.6715565" user="jaapsen" uid="135475" visible="true" version="5" changeset="8986243" timestamp="2011-08-11T14:44:09Z"/>
+ <node id="366462099" lat="10.8002132" lon="106.6674446" user="jaapsen" uid="135475" visible="true" version="2" changeset="9100634" timestamp="2011-08-23T07:20:09Z"/>
+ <way id="58651355" user="jaapsen" uid="135475" visible="true" version="2" changeset="4725992" timestamp="2010-05-17T07:02:51Z">
+  <nd ref="366468056"/>
+  <nd ref="366397851"/>
+  <nd ref="366473578"/>
+  <nd ref="366398898"/>
+  <nd ref="366456460"/>
+  <nd ref="366466574"/>
+  <nd ref="366371679"/>
+  <nd ref="366419728"/>
+  <nd ref="366375943"/>
+  <nd ref="366369484"/>
+  <nd ref="366428095"/>
+  <nd ref="366451774"/>
+  <nd ref="366469251"/>
+  <nd ref="366451837"/>
+  <nd ref="366417375"/>
+  <nd ref="366451347"/>
+  <nd ref="366467329"/>
+  <nd ref="366453219"/>
+  <nd ref="366380873"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Phạm Văn Hai"/>
+  <tag k="name:en" v="Pham Van Hai"/>
+ </way>
+ <way id="32585601" user="mikecc" uid="14034" visible="true" version="8" changeset="13832069" timestamp="2012-11-11T12:44:47Z">
+  <nd ref="366418474"/>
+  <nd ref="1894612450"/>
+  <nd ref="366375751"/>
+  <nd ref="366417375"/>
+  <nd ref="366404340"/>
+  <nd ref="366478733"/>
+  <nd ref="366443898"/>
+  <nd ref="2008273929"/>
+  <nd ref="366435377"/>
+  <nd ref="366455074"/>
+  <nd ref="366378949"/>
+  <nd ref="366428767"/>
+  <nd ref="366388408"/>
+  <nd ref="366398396"/>
+  <nd ref="366438715"/>
+  <nd ref="710021199"/>
+  <nd ref="366470635"/>
+  <nd ref="366453218"/>
+  <nd ref="366417656"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Nguyễn Trọng Tuyển"/>
+  <tag k="name:en" v="Nguyen Trong Tuyen"/>
+ </way>
+ <way id="32584401" user="jaapsen" uid="135475" visible="true" version="2" changeset="4725992" timestamp="2010-05-17T07:02:53Z">
+  <nd ref="366462099"/>
+  <nd ref="366421613"/>
+  <nd ref="366404340"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="32579569" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864453" timestamp="2009-03-28T04:41:37Z">
+  <nd ref="366404340"/>
+  <nd ref="366452602"/>
+  <nd ref="366453684"/>
+  <nd ref="366475507"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="32580051" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864453" timestamp="2009-03-28T04:43:22Z">
+  <nd ref="366474984"/>
+  <nd ref="366393448"/>
+  <nd ref="366427162"/>
+  <nd ref="366408000"/>
+  <nd ref="366478733"/>
+  <tag k="highway" v="residential"/>
+ </way>
+</osm>

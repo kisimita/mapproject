@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.0.2" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="10.7546850" minlon="106.6460470" maxlat="10.7561610" maxlon="106.6469960"/>
+ <node id="1996745622" lat="10.7566673" lon="106.6466642" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:15Z"/>
+ <node id="1996745769" lat="10.7558707" lon="106.6465135" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:18Z"/>
+ <node id="1996745810" lat="10.7544004" lon="106.6461004" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:19Z"/>
+ <node id="1996745644" lat="10.7543714" lon="106.6460146" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:16Z"/>
+ <node id="1996745445" lat="10.7543846" lon="106.6460253" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:13Z"/>
+ <node id="1996745847" lat="10.7546376" lon="106.6461540" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:20Z"/>
+ <node id="1996745418" lat="10.7550908" lon="106.6462989" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:12Z"/>
+ <node id="1996745760" lat="10.7544004" lon="106.6460628" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:18Z"/>
+ <node id="1996745686" lat="10.7562712" lon="106.6466449" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:17Z"/>
+ <node id="1996745737" lat="10.7565242" lon="106.6466637" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:18Z"/>
+ <node id="1996745698" lat="10.7541870" lon="106.6459797" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:17Z"/>
+ <node id="1996745816" lat="10.7544004" lon="106.6461728" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:19Z"/>
+ <node id="1996745529" lat="10.7539995" lon="106.6459601" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:14Z"/>
+ <node id="1996745797" lat="10.7542186" lon="106.6460065" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:19Z"/>
+ <node id="1996745338" lat="10.7550481" lon="106.6462476" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:11Z"/>
+ <node id="1996745079" lat="10.7548141" lon="106.6461782" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:08Z"/>
+ <way id="189027785" user="tuanifan" uid="625303" visible="true" version="1" changeset="13744183" timestamp="2012-11-04T10:02:24Z">
+  <nd ref="1996745622"/>
+  <nd ref="1996745737"/>
+  <nd ref="1996745686"/>
+  <nd ref="1996745769"/>
+  <nd ref="1996745418"/>
+  <nd ref="1996745338"/>
+  <nd ref="1996745079"/>
+  <nd ref="1996745847"/>
+  <nd ref="1996745816"/>
+  <nd ref="1996745810"/>
+  <nd ref="1996745760"/>
+  <nd ref="1996745445"/>
+  <nd ref="1996745644"/>
+  <nd ref="1996745797"/>
+  <nd ref="1996745698"/>
+  <nd ref="1996745529"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Phan Xích Long"/>
+ </way>
+</osm>

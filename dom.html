@@ -1,0 +1,56 @@
+<html>
+ <head>
+  <title>Read XML in Microsoft Browsers</title>
+  <script type="text/javascript">
+    var xmlDoc;
+    function loadxml()
+    {
+      xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
+      xmlDoc.async = false;
+      xmlDoc.onreadystatechange = readXML;
+      xmlDoc.load("employee.xml");
+    }
+ 
+    function readXML()
+    {
+       if(xmlDoc.readyState == 4)
+       {
+        //Using documentElement Properties
+        //Output company
+        alert("XML Root Tag Name: " + xmlDoc.documentElement.tagName);
+ 
+        //Using firstChild Properties
+        //Output year
+        alert("First Child: " + xmlDoc.documentElement.childNodes[1].firstChild.tagName);
+ 
+	//Using lastChild Properties
+	//Output average
+	alert("Last Child: " + xmlDoc.documentElement.childNodes[1].lastChild.tagName);
+ 
+	//Using nodeValue and Attributes Properties
+	//Here both the statement will return you the same result
+	//Output 001
+	alert("Node Value: " + xmlDoc.documentElement.childNodes[0].attributes[0].nodeValue);
+	alert("Node Value: " + xmlDoc.documentElement.childNodes[0].attributes.getNamedItem("id").nodeValue);
+ 
+	//Using getElementByTagName Properties
+	//Here both the statement will return you the same result
+	//Output 2000
+	alert("getElementsByTagName: " + xmlDoc.getElementsByTagName("year")[0].attributes.getNamedItem("id").nodeValue);
+ 
+	//Using text Properties
+	//Output John
+	alert("Text Content for Employee Tag: " + xmlDoc.documentElement.childNodes[0].text);
+ 
+	//Using hasChildNodes Properties
+	//Output True
+	alert("Checking Child Nodes: " + xmlDoc.documentElement.childNodes[0].hasChildNodes);
+      }
+}
+  </script>
+ </head>
+ 
+ <body onload="loadxml();">
+ 
+ </body>
+</html>

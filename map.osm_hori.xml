@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.0.2" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="10.7561610" minlon="106.6469960" maxlat="10.7567720" maxlon="106.6484550"/>
+ <node id="366389893" lat="10.7567116" lon="106.6467436" user="tuanifan" uid="625303" visible="true" version="3" changeset="13744183" timestamp="2012-11-04T10:02:40Z"/>
+ <node id="366400518" lat="10.7563032" lon="106.6512078" user="Dymo12" uid="509465" visible="true" version="3" changeset="10561251" timestamp="2012-02-01T18:42:54Z"/>
+ <node id="366477617" lat="10.7563152" lon="106.6503200" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864453" timestamp="2009-03-28T04:13:21Z"/>
+ <node id="366383250" lat="10.7563784" lon="106.6497557" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="863232" timestamp="2009-03-27T23:39:24Z"/>
+ <node id="366397058" lat="10.7565217" lon="106.6481984" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T00:39:10Z"/>
+ <node id="366451884" lat="10.7564731" lon="106.6487257" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T02:53:39Z"/>
+ <way id="32575997" user="Dymo12" uid="509465" visible="true" version="4" changeset="9947710" timestamp="2011-11-25T19:31:09Z">
+  <nd ref="366389893"/>
+  <nd ref="366397058"/>
+  <nd ref="366451884"/>
+  <nd ref="366383250"/>
+  <nd ref="366477617"/>
+  <nd ref="366400518"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Nguyễn Chí Thanh"/>
+ </way>
+</osm>

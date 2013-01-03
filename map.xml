@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.0.2" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="10.7645190" minlon="106.6735800" maxlat="10.7663420" maxlon="106.6748590"/>
+ <node id="366370617" lat="10.7646203" lon="106.6713662" user="jaapsen" uid="135475" visible="true" version="2" changeset="4703914" timestamp="2010-05-15T08:56:18Z"/>
+ <node id="366382459" lat="10.7633278" lon="106.6747143" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="863232" timestamp="2009-03-27T23:38:07Z"/>
+ <node id="366435586" lat="10.7611979" lon="106.6750863" user="chinhdung" uid="682814" visible="true" version="2" changeset="11697155" timestamp="2012-05-25T10:51:59Z"/>
+ <node id="366454412" lat="10.7620997" lon="106.6749447" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T03:00:29Z"/>
+ <node id="366399898" lat="10.7655468" lon="106.6752241" user="Prenn" uid="1097298" visible="true" version="2" changeset="14094720" timestamp="2012-11-30T04:32:48Z"/>
+ <node id="366474241" lat="10.7650135" lon="106.6730359" user="jaapsen" uid="135475" visible="true" version="2" changeset="4703914" timestamp="2010-05-15T08:56:10Z"/>
+ <node id="366388102" lat="10.7643690" lon="106.6702988" user="jaapsen" uid="135475" visible="true" version="2" changeset="4703914" timestamp="2010-05-15T08:56:24Z"/>
+ <node id="366404346" lat="10.7638380" lon="106.6680440" user="jaapsen" uid="135475" visible="true" version="2" changeset="4703914" timestamp="2010-05-15T08:56:18Z"/>
+ <node id="366450098" lat="10.7648559" lon="106.6723668" user="jaapsen" uid="135475" visible="true" version="2" changeset="4703914" timestamp="2010-05-15T08:56:24Z"/>
+ <node id="366449504" lat="10.7629387" lon="106.6748000" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-28T02:47:56Z"/>
+ <node id="366429715" lat="10.7589026" lon="106.6755810" user="tuanifan" uid="625303" visible="true" version="2" changeset="13748517" timestamp="2012-11-04T15:44:16Z"/>
+ <node id="366469572" lat="10.7645234" lon="106.6744512" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864453" timestamp="2009-03-28T03:44:42Z"/>
+ <node id="366469000" lat="10.7644986" lon="106.6708493" user="jaapsen" uid="135475" visible="true" version="2" changeset="4703914" timestamp="2010-05-15T08:56:25Z"/>
+ <node id="366445936" lat="10.7653094" lon="106.6742927" user="jaapsen" uid="135475" visible="true" version="2" changeset="4703914" timestamp="2010-05-15T08:56:24Z"/>
+ <node id="366367523" lat="10.7620687" lon="106.6749513" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="863232" timestamp="2009-03-27T23:04:32Z"/>
+ <node id="366390755" lat="10.7669510" lon="106.6739596" user="Ivan Garcia" uid="94270" visible="true" version="1" changeset="864406" timestamp="2009-03-27T23:59:50Z"/>
+ <way id="32587326" user="OSMF Redaction Account" uid="722137" visible="true" version="5" changeset="12389179" timestamp="2012-07-20T19:58:41Z">
+  <nd ref="366399898"/>
+  <nd ref="366445936"/>
+  <nd ref="366474241"/>
+  <nd ref="366450098"/>
+  <nd ref="366370617"/>
+  <nd ref="366469000"/>
+  <nd ref="366388102"/>
+  <nd ref="366404346"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Vĩnh Viễn"/>
+ </way>
+ <way id="32581052" user="OSMF Redaction Account" uid="722137" visible="true" version="5" changeset="12389179" timestamp="2012-07-20T19:58:31Z">
+  <nd ref="366429715"/>
+  <nd ref="366435586"/>
+  <nd ref="366367523"/>
+  <nd ref="366454412"/>
+  <nd ref="366449504"/>
+  <nd ref="366382459"/>
+  <nd ref="366469572"/>
+  <nd ref="366445936"/>
+  <nd ref="366390755"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Trần Nhân Tôn"/>
+ </way>
+</osm>
